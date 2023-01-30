@@ -1,0 +1,9 @@
+#spring:
+#  data:
+#    mongodb:
+#      authentication-database: admin
+#      username: rootuser     #your_root_user     (default->rootuser)
+#      password: rootpass     #your_root_password (default->rootpass)
+#      database: dbcon        #your_db_name
+#      port: 27017            #your_port       (default->27017)
+#      host: localhost        #your_host  (default->localhost)
